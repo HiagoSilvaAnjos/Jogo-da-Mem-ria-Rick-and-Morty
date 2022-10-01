@@ -1,0 +1,59 @@
+/* Estilos do fomulario */
+.login-form {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    justify-content: center;
+    background-color: rgba(80, 98, 232, 0.777);
+}
+
+/* Estilos do header */
+.login-header {
+    display:flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    margin-bottom: 50px;
+}
+
+.login-header img {
+    width: 100px;
+}
+
+.login-header h1 {
+    color: #333;
+    font-size: 1.5em;
+}
+
+/* Estilos do input */
+.login-input {
+    border: 2px solid #333;
+    border-radius: 8px;
+    color: #333;
+    font-size: 1em;
+    margin-bottom: 15px;
+    width: 100%;
+    max-width: 300px;
+    outline: none;
+    padding: 15px;
+}
+
+/* Estilos do button */
+.login-button {
+    background-color: #ee6656;
+    padding: 15px;
+    border-radius: 8px;
+    color: #ffff;
+    cursor: pointer;
+    font-size: 1em;
+    width: 100%;
+    max-width: 300px;
+}
+
+/* Quando o botão estiver desabilitado */
+.login-button:disabled {
+    background-color: #eee;
+    color: #aaa;
+    cursor: auto;
+}

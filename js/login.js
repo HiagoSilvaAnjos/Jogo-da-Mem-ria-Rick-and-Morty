@@ -16,7 +16,7 @@ const handleSubmit = (event) => {
     event.preventDefault();
 
     localStorage.setItem("player", inputName.value);
-    window.location = "/pages/game.html";
+    window.location = "pages/game.html";
 }
 
 // evento para validar nome do player

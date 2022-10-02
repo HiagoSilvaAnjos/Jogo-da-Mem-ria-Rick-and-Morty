@@ -13,7 +13,7 @@
     background-color: #333;
     border-radius: 5px;
     position: relative;
-    transition: all 500ms ease;
+    transition: all 600ms ease;
     transform-style: preserve-3d;
 }
 
@@ -28,7 +28,6 @@
 }
 
 .front {
-    background-image: url('../images/beth.png');
     transform: rotateY(180deg);
 }
 

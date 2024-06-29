@@ -2,8 +2,8 @@
 
 Feito com JavaScript, inspirado na animação Rick and Morty
 
-![alt text](image.png)
+![alt text](./images/image.png)
 
-![alt text](image-1.png)
+![alt text](./images/image-1.png)
 
-![alt text](image-2.png)
+![alt text](./images/image-2.png)
